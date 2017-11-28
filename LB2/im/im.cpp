@@ -10,7 +10,7 @@
 #include <math.h>
 
 using namespace std;
-
+//git com
 void initializeArray(int* arr, size_t n)
 {
 	if (n > 0)
