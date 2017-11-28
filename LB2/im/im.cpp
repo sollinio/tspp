@@ -67,7 +67,7 @@ void printArray2D(int** arr, size_t n, size_t m)
         cout << endl;
     }
 }
-
+// comment one vans
 int main()
 {
 const size_t LEN = 25; // задаем все параметры
